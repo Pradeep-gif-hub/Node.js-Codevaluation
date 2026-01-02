@@ -1,0 +1,19 @@
+{
+  "name": "newpackage",
+  "version": "1.0.0",
+  "description": "myfirst empty package",
+  "keywords": [
+    "pradeep"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "pradeep-gif-hub"
+  },
+  "license": "ISC",
+  "author": "Pradeep Awasthi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

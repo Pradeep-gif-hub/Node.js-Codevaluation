@@ -1,0 +1,17 @@
+{
+    "name": "greet-codevalution",
+    "version": "1.0.0",
+    "description": "First Package",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keyword": [
+        "codevalution",
+        "greet"
+    ],
+    "keywords": []
+}
